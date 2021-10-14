@@ -12,13 +12,13 @@ permalink: pretty
 
 # highlighter: pygments
 
-gems:
+#gems:
 #  - jekyll-feed
-  - jekyll-sitemap
+#  - jekyll-sitemap
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
 
 markdown: kramdown
 
