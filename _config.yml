@@ -3,7 +3,7 @@ author:
   url: https://github.com/bartsimp
 
 title: bart's blog
-tagline: life. code
+tagline: life
 description: life. code
 
 theme: minima
@@ -20,11 +20,11 @@ permalink: pretty
 #  - Gemfile
 #  - Gemfile.lock
 
-markdown: kramdown
+#markdown: kramdown
 
-kramdown:
-  input: GFM
-  hard_wrap: false
+#kramdown:
+#  input: GFM
+#  hard_wrap: false
 
 #timezone: Asia/Kolkata
 
