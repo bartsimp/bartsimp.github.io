@@ -1,0 +1,31 @@
+author:
+  name: Bart Simp
+  url: https://github.com/bartsimp
+
+title: bart's blog
+tagline: life. code
+description: life. code
+
+theme: minima
+
+permalink: pretty
+
+# highlighter: pygments
+
+gems:
+#  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+#timezone: Asia/Kolkata
+
+future: true
